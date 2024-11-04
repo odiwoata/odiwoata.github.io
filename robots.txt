@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odiwoata.github.io/Anv/sitemap_index.txt
+Sitemap: https://odiwoata.github.io/TOX/sitemap_index.txt
+Sitemap: https://odiwoata.github.io/nVr/sitemap_index.txt
+Sitemap: https://odiwoata.github.io/yjb/sitemap_index.txt
